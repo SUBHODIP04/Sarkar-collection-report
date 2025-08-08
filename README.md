@@ -6,7 +6,7 @@ Author : Subhodip Sarkar
 analyse the annual data of a garment store known as Sarkar's collection and gave them a meaningful insughts , so they can develop and change their business model accordingly if needed.
 
 ## Questions (KPIs)
-<br>
+
 1. Compeare sales and orders using a single chart.
 2. compeare gender based sales records
 3. Different kind of order status
